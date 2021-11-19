@@ -3,6 +3,6 @@ def ispalindrome(s):
 s="malayalam"
 ans=ispalindrome(s)
 if ans :
-	print("yes")
+	print("s")
 else:
 	print("no")
