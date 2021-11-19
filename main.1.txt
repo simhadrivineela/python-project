@@ -1,0 +1,6 @@
+number=int(input("enter the number"))
+root=math.sqrt(number)
+if int(root+0.5)**2==number:
+	print('perfect square',number)
+else:
+	print('not a perfect square',number)
