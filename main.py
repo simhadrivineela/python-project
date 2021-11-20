@@ -3,6 +3,6 @@ def ispalindrome(s):
 s="mom"
 ans=ispalindrome(s)
 if ans :
-	print("palindrome")
+	print("pal")
 else:
 	print("not a palindrome")
